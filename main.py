@@ -13,7 +13,7 @@ from PPDI import gbf_merge, compare, verify
 
 app = Flask(__name__)
 ALLOWED_EXTENSIONS = set(['txt', 'jpg'])
-UPLOAD_FOLDER = 'C:\\Users\\CISLAB\\Desktop\\web'
+UPLOAD_FOLDER = UPLOAD_FOLDER = os.path.dirname(os.path.realpath(__file__))
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB
 
