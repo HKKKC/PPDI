@@ -1,6 +1,14 @@
 # PPDataIntegration
 
 how to start?
+透過vscode編譯器打開資料夾
+執行main.py
+
+
+在termial處下載相關套件:
+pip install flask
+
+
 
 
 連線網址: 127.0.0.1:5000
