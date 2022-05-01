@@ -1,6 +1,9 @@
 # PPDI
 
- <br />
+透過GBF技術達成PSI的資料集整合展示網頁  <br />
+目標為整合資料集合中交集的資料項  <br />
+
+<br />
 透過vscode編譯器打開資料夾 <br />
 執行main.py   <br />
 
@@ -8,7 +11,7 @@
 pip install flask   <br />
 
 
- <br />
+<br />
 連線網址: 127.0.0.1:5000
 
 
