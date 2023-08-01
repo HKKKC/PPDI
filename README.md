@@ -66,3 +66,6 @@ EX:
 </table>
 
 ![image](https://user-images.githubusercontent.com/55148438/164233338-05b55960-a5b3-42d5-b57d-362c334df2e1.png)
+
+<br /><br />
+More information on https://github.com/cislab-ntut/JEDI.git
